@@ -1,0 +1,210 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.sudoku",
+      "sha256_cert_fingerprints": [
+        "9E:87:28:78:DE:64:A2:E7:E0:A6:C1:6A:83:52:69:E0:04:B2:E7:97:6A:58:63:B4:BA:C3:25:C8:95:E6:FA:28",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.blockpuzzle",
+      "sha256_cert_fingerprints": [
+        "1F:18:1D:76:0A:03:50:4D:70:E7:E7:3C:A6:B6:18:4F:0B:BC:93:44:C9:F5:37:00:E5:DA:20:B5:C4:76:09:5C",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.killersudoku",
+      "sha256_cert_fingerprints": [
+        "A9:14:B0:5A:30:81:4D:E0:9D:02:E4:CF:60:09:4A:82:7C:54:3B:BC:36:45:9A:ED:99:A2:5C:4B:53:AB:3E:F8",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.petek",
+      "sha256_cert_fingerprints": [
+        "C9:A2:DE:6D:FB:00:2A:1C:63:67:49:3E:D4:80:55:BB:58:23:E4:91:44:F6:BA:6C:F8:4C:B2:ED:ED:B3:6D:64",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.fetih",
+      "sha256_cert_fingerprints": [
+        "BD:6D:3D:34:58:7D:13:0E:CA:66:5F:69:52:DB:FD:46:F2:C9:39:77:E1:70:D2:D6:14:7B:C7:11:9B:97:48:71",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.tavla",
+      "sha256_cert_fingerprints": [
+        "FD:81:B4:6C:1B:8D:42:F1:12:00:ED:0D:D2:66:D7:91:07:F8:05:87:F9:74:EE:43:DD:4C:BE:34:00:57:4A:AF",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.hearts",
+      "sha256_cert_fingerprints": [
+        "99:BA:4D:21:86:28:F9:8C:07:AA:39:FA:DD:6C:95:9A:43:BB:91:56:D9:25:E5:71:6F:92:4E:CA:10:5C:94:0B",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.spades",
+      "sha256_cert_fingerprints": [
+        "13:02:93:10:E2:5F:50:51:8B:27:45:42:DC:05:93:5B:46:D5:8C:44:3A:81:EE:E1:6D:D3:B2:2B:90:BA:BB:BF",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.euchre",
+      "sha256_cert_fingerprints": [
+        "A5:A2:2B:E5:CB:AC:03:E0:CB:E3:B1:B1:AE:A8:B4:26:43:49:1C:BD:08:FE:25:DD:41:35:59:06:D4:EF:75:05",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.cribbage",
+      "sha256_cert_fingerprints": [
+        "F3:4D:46:A7:B7:AB:6E:05:2D:16:91:A6:D1:2F:A9:C3:33:BA:72:53:70:20:80:AD:60:09:17:33:FE:9B:53:E1",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.belote",
+      "sha256_cert_fingerprints": [
+        "77:25:DF:2C:EF:95:1A:98:1D:49:28:30:D3:13:88:C0:33:43:97:5D:48:3D:B6:9A:C6:F0:D0:94:FD:C4:B5:A3",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.canasta",
+      "sha256_cert_fingerprints": [
+        "23:3E:CE:10:09:83:45:83:EB:DD:01:52:55:0B:74:57:B5:BD:EB:3A:0D:09:7D:D1:90:FA:E5:32:10:56:CE:C2",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.ginrummy",
+      "sha256_cert_fingerprints": [
+        "D9:DB:E8:DA:9B:17:8F:47:03:60:8A:FC:74:6A:1D:FD:96:C6:96:0C:99:5D:59:B4:4F:BB:24:3E:18:12:18:44",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.skat",
+      "sha256_cert_fingerprints": [
+        "D7:F3:20:40:C7:82:F9:45:76:FD:4F:4C:46:29:84:F0:AC:1D:23:0F:FD:B4:26:57:CC:7B:39:07:F2:4A:1D:2D",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.mancala",
+      "sha256_cert_fingerprints": [
+        "5B:E6:21:3B:2B:20:FB:0A:D4:FA:BB:3B:A9:D2:A2:99:15:95:F4:E0:D4:47:5E:2D:57:E1:F3:B8:A8:86:3C:DB",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.morris",
+      "sha256_cert_fingerprints": [
+        "40:0F:D6:68:3B:A2:85:F8:EC:35:94:1C:8B:1C:93:55:86:76:EC:3D:1D:C2:16:5A:3C:D6:12:06:61:A3:00:2A",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  }
+]
