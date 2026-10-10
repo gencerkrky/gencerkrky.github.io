@@ -206,5 +206,31 @@
         "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.groups",
+      "sha256_cert_fingerprints": [
+        "A4:6E:C0:57:6C:2B:3C:5B:AC:A3:40:5D:49:FA:8C:2C:C8:5F:BB:06:F4:0D:8C:6E:25:18:EE:AC:CC:2E:CD:6D",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pikkogames.chrono",
+      "sha256_cert_fingerprints": [
+        "85:B0:8F:14:FE:EE:FA:03:60:9E:93:24:9C:B5:5E:17:68:1A:10:C7:38:36:B9:94:08:A9:9D:B2:72:CD:80:09",
+        "6B:BD:A3:82:B0:76:67:4B:F2:09:FD:4E:57:EC:29:64:8F:04:CF:4F:0B:4D:8B:E8:D9:9A:28:39:E1:25:0F:4E"
+      ]
+    }
   }
 ]
