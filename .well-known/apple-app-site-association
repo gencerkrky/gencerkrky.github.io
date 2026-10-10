@@ -1,0 +1,253 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.sudoku"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/sudoku"
+          },
+          {
+            "/": "/pikko-games-site/c/sudoku/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.blockpuzzle"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/block-puzzle"
+          },
+          {
+            "/": "/pikko-games-site/c/block-puzzle/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.killersudoku"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/killer"
+          },
+          {
+            "/": "/pikko-games-site/c/killer/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.petek"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/petek"
+          },
+          {
+            "/": "/pikko-games-site/c/petek/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.fetih"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/fetih"
+          },
+          {
+            "/": "/pikko-games-site/c/fetih/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.patika"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/patika"
+          },
+          {
+            "/": "/pikko-games-site/c/patika/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.tavla"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/tavla"
+          },
+          {
+            "/": "/pikko-games-site/c/tavla/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.hearts"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/hearts"
+          },
+          {
+            "/": "/pikko-games-site/c/hearts/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.spades"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/spades"
+          },
+          {
+            "/": "/pikko-games-site/c/spades/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.euchre"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/euchre"
+          },
+          {
+            "/": "/pikko-games-site/c/euchre/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.cribbage"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/cribbage"
+          },
+          {
+            "/": "/pikko-games-site/c/cribbage/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.belote"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/belote"
+          },
+          {
+            "/": "/pikko-games-site/c/belote/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.canasta"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/canasta"
+          },
+          {
+            "/": "/pikko-games-site/c/canasta/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.ginrummy"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/ginrummy"
+          },
+          {
+            "/": "/pikko-games-site/c/ginrummy/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.skat"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/skat"
+          },
+          {
+            "/": "/pikko-games-site/c/skat/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.mancala"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/mancala"
+          },
+          {
+            "/": "/pikko-games-site/c/mancala/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.morris"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/morris"
+          },
+          {
+            "/": "/pikko-games-site/c/morris/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.groups"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/groups"
+          },
+          {
+            "/": "/pikko-games-site/c/groups/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "786RDH9QC9.com.pikkogames.chrono"
+        ],
+        "components": [
+          {
+            "/": "/pikko-games-site/c/chrono"
+          },
+          {
+            "/": "/pikko-games-site/c/chrono/*"
+          }
+        ]
+      }
+    ]
+  }
+}
